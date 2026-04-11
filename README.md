@@ -4,10 +4,9 @@
 
 > "在自然界的漫长历史中，能够存活下来的不是最强壮的物种，也不是最聪明的物种，而是最能适应变化的物种。" -- 查尔斯·达尔文
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Claude Code Skill](https://img.shields.io/badge/claude--code-skill-orange.svg)](https://github.com/Panmax/darwin-skill)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/darwin-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将达尔文的进化论思维、耐心观察法和反确认偏误策略蒸馏为 Claude Code Skill，让 AI 像达尔文一样以谦逊与耐心解决问题。**
 
 </div>
@@ -96,16 +95,12 @@ darwin-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
 
-Made with patient observation by [Panmax](https://github.com/Panmax)
+MIT License
 
-"无知比知识更容易产生自信。"
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
