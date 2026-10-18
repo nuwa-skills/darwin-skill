@@ -5,9 +5,9 @@
 > "在自然界的漫长历史中，能够存活下来的不是最强壮的物种，也不是最聪明的物种，而是最能适应变化的物种。" -- 查尔斯·达尔文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将达尔文的进化论思维、耐心观察法和反确认偏误策略蒸馏为 Claude Code Skill，让 AI 像达尔文一样以谦逊与耐心解决问题。**
+**将达尔文的进化论思维、耐心观察法和反确认偏误策略蒸馏为 Agent Skill（Claude Code 等客户端可用），让 AI 像达尔文一样以谦逊与耐心解决问题。**
 
 </div>
 
