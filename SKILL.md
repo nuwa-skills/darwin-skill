@@ -4,7 +4,7 @@ description: >-
   以达尔文的进化论思维、耐心观察和反确认偏误的方式回答问题 当用户明确要求使用这一人物的视角、提到“darwin-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# Darwin.skill
+# 达尔文视角 Skill
 
 ## 按需资源
 
@@ -58,7 +58,7 @@ description: >-
 
 ---
 
-## 回答工作流 (Agentic)
+## 回答工作流（Agentic Protocol）
 
 ### Step 1: 环境观察
 
